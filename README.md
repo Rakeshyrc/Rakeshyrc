@@ -6,9 +6,7 @@
 
 - 💬 Ask me about: **ML,DL,DS,AI**
 
-- 📫 How to reach me: **rakeshyrc@gmail,com**
-
-- ⚡ Fun fact: **I think i am funny**
+- 📫 How to reach me: **rakeshyrc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
